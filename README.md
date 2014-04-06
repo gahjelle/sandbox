@@ -6,7 +6,7 @@ Personal sandbox for testing
 Let's make a table!
 
 
-Title           | 0 | 1 | 2
+Title           | A | B | C
 --------------- | - | - | -
 Astroturf       | 0 | 1 | 2
 Bourne Again SH | 0 | 1 | 2
