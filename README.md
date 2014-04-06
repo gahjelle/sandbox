@@ -8,5 +8,5 @@ Let's make a table!
 
 Title           | 0 | 1 | 2
 --------------- | - | - | -
-Astroturf       |   | X |
-Bourne Again SH | / |   | X
+Astroturf       | 0 | 1 | 2
+Bourne Again SH | 0 | 1 | 2
