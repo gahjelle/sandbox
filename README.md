@@ -7,7 +7,7 @@ Let's make a table!
 
 
 Title           | A | B | C
---------------- | - | - | -
+--- | --- | --- | ---
 Astroturf       | 0 | 1 | 2
 Bourne Again SH | 0 | 1 | 2
 
